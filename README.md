@@ -4,4 +4,4 @@ My nickname is Kodex, im a Beginner C# Coder and Terraria Modder, and i also kno
 
 <h3 align="center">Current Projects</h3>
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|[Kasta!](https://github.com/Dustye-0827/KastaMod/tree/main/Kasta)<br>Mod I'm doing with my friends.|
+|[Kasta!](https://github.com/Dustye-0827/KastaMod/tree/main/Kasta)<br>Mod I'm doing with my friends.|<br>
