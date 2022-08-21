@@ -1,6 +1,6 @@
 <h2 align = "center">Welcome</h2>
 
-My nickname is <b>Kodex</b>, im a Beginner C# Coder and Terraria Modder, and i also know Intermediate Lua, i will do a lot of works in this page and I will contribute to the community. 😁
+My nickname is <b>Kodex</b>, im a Lua, Java and C# Coder, and i also mod some games like Terraria, Minecraft and CastleMiner Z, i will do a lot of works in this page and I will contribute to the community. 😁
 
 <h3 align="center">Current Projects</h3>
 
